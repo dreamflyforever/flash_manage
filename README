@@ -1,0 +1,3 @@
+It is a tiny file system base on nor flash.
+Compile: scons 
+execute: ./start.sh, maybe you shuld use command first: chmod +x start.sh
